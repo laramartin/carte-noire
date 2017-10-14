@@ -5,7 +5,7 @@ description: "Android Developer"
 baseurl: ""
 url: "http://laramartin.eu"
 title_description: "Android Developer based in Berlin"
-title_image: "assets/profile_lara.jpg"
+title_image: assets/profile.jpg
 google_analytics: "UA-74035075-1"
 # disqus_account: cartenoire
 github_repository: https://github.com/laramartin/laramartin.github.io
