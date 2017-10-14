@@ -11,7 +11,9 @@ $xing:           #006567;
 $google-plus:    #c95644;
 $facebook:       #365899;
 $github:         #f6c2a4;
-$stack-overflow: #c98b3b;
+$email:          #9575CD;
+$medium-blog:    #69F0AE;
+$stack-overflow: #69F0AE;
 $instagram:      #cd486b;
 $reddit:         #cee3f8;
 $rss:            #eea33a;
@@ -187,7 +189,7 @@ ul {
 	.fa-linkedin:hover {
 		color: $linkedin;
 	}
-	
+
 	.fa-xing:hover {
 		color: $xing;
 	}
@@ -195,7 +197,7 @@ ul {
 	.fa-google-plus:hover {
 		color: $google-plus;
 	}
-	
+
 	.fa-facebook:hover {
 		color: $facebook;
 	}
@@ -204,18 +206,26 @@ ul {
 		color: $github;
 	}
 
+	.fa-envelope:hover {
+		color: $email;
+	}
+
+	.fa-medium:hover {
+		color: $medium-blog;
+	}
+
 	.fa-stack-overflow:hover {
 		color: $stack-overflow;
 	}
-	
+
 	.fa-instagram:hover {
 		color: $instagram;
 	}
-	
+
 	.fa-reddit-alien:hover {
 		color: $reddit;
 	}
-	
+
 	.fa-rss:hover {
 		color: $rss;
 	}
