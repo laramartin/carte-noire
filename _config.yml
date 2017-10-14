@@ -5,7 +5,7 @@ description: "Android Developer"
 baseurl: ""
 url: "http://laramartin.eu"
 title_description: "Android Developer based in Berlin"
-title_image: "https://avatars0.githubusercontent.com/u/13904500?s=460&v=4"
+title_image: "assets/profile_lara.jpg"
 google_analytics: "UA-74035075-1"
 # disqus_account: cartenoire
 github_repository: https://github.com/laramartin/laramartin.github.io
@@ -15,6 +15,7 @@ post_limit: 5
 # Social usernames/URLs
 twitter_username: lariki
 github_username:  laramartin
+medium: laramartin
 # instagram_username:
 # reddit_username:
 linkedin_link: https://www.linkedin.com/in/laramartincarretero/
