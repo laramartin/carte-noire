@@ -5,7 +5,6 @@ date:       2017-03-08 18:00
 author:     Lara Martín
 summary:    How I started and continued coding
 categories: programming
-thumbnail:  heart
 tags:
  - shecoded
  - programming
