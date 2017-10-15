@@ -99,14 +99,14 @@ ul {
 }
 
 .header {
-	font-size: 32px;
+	font-size: 26px;
 	text-align: center;
 	margin-top: 20px;
 	margin-left: -0%;
 	width: 100%;
 
 	@media (min-width: $screen-sm-min) {
-		font-size: 62px;
+		font-size: 46px;
 		margin-left: -10%;
 		width: 120%;
 	}
@@ -273,12 +273,12 @@ ul {
 		font-size: 30px;
 
 		@media (min-width: $screen-sm-min) {
-			font-size: 52px;
+			font-size: 40px;
 			margin-top: 0px;
 		}
 
 		@media (min-width: $screen-md-min) {
-			font-size: 60px;
+			font-size: 46px;
 			margin-top: -20px;
 		}
 	}
@@ -462,11 +462,11 @@ ul {
 	}
 
 	h2 {
-		font-size: 36px;
+		font-size: 22px;
 	}
 
 	h3 {
-		font-size: 28px;
+		font-size: 16px;
 	}
 
 	p {
@@ -578,7 +578,7 @@ ul {
 			padding-bottom: 10px;
 
 			@media (min-width: $screen-sm-min) {
-				font-size: 24px;
+				font-size: 14px;
 				padding-left: 30px;
 				padding-right: 30px;
 				padding-top: 40px;
@@ -614,7 +614,7 @@ ul {
 				color: white;
 				box-sizing: content-box;
 				border: none;
-				font-size: 28px;
+				font-size: 18px;
 
 				@media (min-width: $screen-sm-min) {
 					margin-left: -30px;
@@ -635,7 +635,7 @@ ul {
 			    position: absolute;
 			    top: 15px;
 			    left: 15px;
-			    font-size: 65px;
+			    font-size: 45px;
 			    font-weight: bold;
 				}
 
@@ -762,11 +762,11 @@ ul {
 
 	.title {
 		padding-top:20px;
-		font-size: 24px;
+		font-size: 18px;
 		margin-bottom: 20px;
 
 		@media (min-width: $screen-sm-min) {
-			font-size: 36px;
+			font-size: 26px;
 		}
 
 		a {
