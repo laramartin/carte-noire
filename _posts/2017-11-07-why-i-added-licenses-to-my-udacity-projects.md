@@ -30,8 +30,8 @@ At this point I was curious about this fact and started checking periodically th
 
 However I’m not getting only visitors, but also clones. An average of 5 clones every 2 weeks.
 
-![My Android Inventory App GitHub traffic](https://thepracticaldev.s3.amazonaws.com/i/xdotkqtmrt5odqxmcwk3.png)
-![My Android Inventory App GitHub clones](https://thepracticaldev.s3.amazonaws.com/i/w2d01v3soonu0a8l5ee3.png)
+![My Android Inventory App GitHub traffic](https://raw.githubusercontent.com/laramartin/laramartin.github.io/master/_posts/art/2017-11-07-udacity-licenses/visitors.png)
+![My Android Inventory App GitHub clones](https://raw.githubusercontent.com/laramartin/laramartin.github.io/master/_posts/art/2017-11-07-udacity-licenses/clones.png)
 
 
 
@@ -66,14 +66,14 @@ I added this license to the README files and in all project files. Thankfully An
 
 To add a license to your project, first you need to create a template with the text. Go to *Preferences -> Editor -> Copyright -> Copyright Profiles*. Here add a new profile, give it a name and paste your license.
 
-![Creating a copyright profile](https://thepracticaldev.s3.amazonaws.com/i/372bik6706qs1rtegsi6.gif)
+![Creating a copyright profile](https://raw.githubusercontent.com/laramartin/laramartin.github.io/master/_posts/art/2017-11-07-udacity-licenses/add_license.gif)
 
 Once you have a copyright profile you want to use, you can add it to a specific file you want or to all:
 
 1. Add it as your default project copyright: *Preferences -> Editor -> Copyright -> select the desired copyright file*
 2. Update the copyright: *select the file(s) you want to add the license to -> right click -> Update copyright*. There is also a shortcut when adding a copyright in a single file, just use `cmd + N` in mac or `Alt + Insert` for Windows.
 
-![Adding a copyright to a project](https://thepracticaldev.s3.amazonaws.com/i/xhdm3i3i8bf83qn1gzzp.gif)
+![Adding a copyright to a project](https://raw.githubusercontent.com/laramartin/laramartin.github.io/master/_posts/art/2017-11-07-udacity-licenses/update_copyright.gif)
 
 and done!
 
