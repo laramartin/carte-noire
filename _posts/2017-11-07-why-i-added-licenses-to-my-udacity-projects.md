@@ -4,7 +4,7 @@ title:      Why I added licenses to my Udacity projects
 date:       2017-11-07 00:00
 author:     Lara Martín
 summary:    And the problem with plagiarism
-categories: Software Development, Open source
+categories: programming
 tags:
   - Android
   - Android Dev

@@ -4,7 +4,7 @@ title:      Clean your status bar like a pro!
 date:       2017-06-28 00:00
 author:     Lara Martín
 summary:    Improve your screenshots in an automated way
-categories: careers
+categories: android
 tags:
   - Android
   - Android Dev
