@@ -3,10 +3,16 @@ layout: default
 make-smaller-titles: true
 ---
 <div class="container-fluid index">
-  <div class="row index all-posts">
-    <h1 class="header author-header">{{ site.author_name }}</h1>
-    <h2 class="header" itemprop="headline">Talks</h2>
+  <div class="row">
+    <div class="col-md-12 main content-panel">
+      <div class="gravatar">
+        <img src="http://laramartin.eu/{{ site.title_image }}" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
+      </div>
+      <br/>
+      <h1 class="header author-header" itemprop="headline">{{ site.title }}</h1>
+    </div>
     <div class="col-md-12 content-panel talks">
+      <h2 class="header" itemprop="headline">Talks</h2>
       <ul>
         <li>
           <small class="hidden-xs">2019-01-24</small>
@@ -56,4 +62,3 @@ make-smaller-titles: true
     </div>
   </div>
 </div>
-
