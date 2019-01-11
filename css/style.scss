@@ -360,6 +360,41 @@ ul {
 		}
 	}
 
+	.talks {
+		text-align: left;
+		font-size: 20px;
+
+		h2 {
+			margin-bottom: 30px;
+			color: $light-blue;
+			font-size: 26px;
+		}
+
+		ul {
+			padding: 0px;
+			li {
+				margin-bottom: 20px;
+				font-size: 24px;
+				a:hover {
+					color: $light-medium;
+				}
+				small {
+					font-size: 16px;
+					padding-right: 10px;
+					color: $light-medium;
+				}
+			}
+		}
+
+		a, a:active {
+			color: $green;
+			white-space: nowrap;
+		}
+
+		a:hover {
+			color: $light-blue;
+		}
+	}
 	.copyright {
 		margin-top: 50px;
 		text-align: center;
