@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.laramartin.dev/categories/</loc>
+    <loc>https://www.laramartin.dev/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.laramartin.dev/</loc>
+    <loc>https://www.laramartin.dev/</loc>
   </url>
   
   <url>
-    <loc>http://www.laramartin.dev/tags/</loc>
+    <loc>https://www.laramartin.dev/tags/</loc>
   </url>
   
   <url>
-    <loc>http://www.laramartin.dev/talks/</loc>
+    <loc>https://www.laramartin.dev/talks/</loc>
   </url>
   
 </urlset>
