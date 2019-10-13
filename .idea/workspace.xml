@@ -39,6 +39,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-07-06-resources-to-learn-flutter.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-09-master-detail-views-with-navigation-components.md" />
         <option value="$PROJECT_DIR$/talks.html" />
+        <option value="$PROJECT_DIR$/tags/index.html" />
       </list>
     </option>
   </component>
@@ -122,12 +123,12 @@
       <workItem from="1562442255968" duration="245000" />
       <workItem from="1562442663289" duration="23000" />
       <workItem from="1562442739928" duration="2620000" />
-      <workItem from="1570902118700" duration="4722000" />
+      <workItem from="1570902118700" duration="5318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7610000" />
+    <option name="totallyTimeSpent" value="8206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
