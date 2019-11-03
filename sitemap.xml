@@ -4,14 +4,17 @@
   
   <url>
     <loc>https://laramartin.dev/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://laramartin.dev/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://laramartin.dev/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
