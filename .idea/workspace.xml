@@ -30,20 +30,14 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="162" />
-    <option name="y" value="23" />
-    <option name="width" value="1498" />
-    <option name="height" value="1027" />
-  </component>
   <component name="ProjectId" id="1VQAKP1M1rNPpEsxuUDaixwpQc2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -51,18 +45,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
     </key>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -79,10 +61,11 @@
       <workItem from="1562442739928" duration="2620000" />
       <workItem from="1570902118700" duration="5318000" />
       <workItem from="1577174881233" duration="50000" />
+      <workItem from="1587025867421" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
 </project>
